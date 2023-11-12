@@ -124,7 +124,7 @@ const experiences = [
     company_name: "Makers",
     icon: makerLogo,
     iconBg: "#E6DEDD",
-    date: "February 2023 - April 2023",
+    date: "December 2023 - Marth 2023",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional including designers, product managers, and other developers to create high-quality products.",
@@ -137,7 +137,7 @@ const experiences = [
     company_name: " Freelance",
     icon: fiver,
     iconBg: "#E6DEDD",
-    date: "April 2023 - May 2023",
+    date: "Marth 2023 - May 2023",
     points: [
       "working with backends development using Node.js as well as using databases MongoDB,SQL.",
       "creation of websites of varying complexity for business.",
@@ -149,7 +149,7 @@ const experiences = [
     company_name: "Easy QR menu",
     icon: easy,
     iconBg: "#E6DEDD",
-    date: "June 2023 - September 2023",
+    date: "June 2023 - November 2023",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional including designers, product managers, and other developers to create high-quality products.",
